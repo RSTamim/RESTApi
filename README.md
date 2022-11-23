@@ -50,11 +50,16 @@ To learn API, check out the [API documentation](https://developers.planet.com/do
 
 ### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://redux-toolkit.js.org/rtk-query/api/created-api/code-splitting)
+Code Splitting and Generation
+Each API slice allows additional endpoint definitions to be injected at runtime after the initial API slice has been defined. This can be beneficial for apps that may have many endpoints.
+
+The individual API slice endpoint definitions can also be split across multiple files. This is primarily useful for working with API slices that were code-generated from an API schema file, allowing you to add additional custom behavior and configuration to a set of automatically-generated endpoint definitions.
+
 
 ### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://blog.bitsrc.io/6-tools-and-techniques-to-analyze-webpack-bundle-size-817337f8cf91)
 
 ### Making a Progressive Web App
 
