@@ -5,7 +5,7 @@ var cors = require("cors");
 
 const mongoose = require("mongoose");
 mongoose.connect("mongodb://localhost:27017/contacts-DB");
-mong
+mo
 
 
 const db = mongoose.Collection;
