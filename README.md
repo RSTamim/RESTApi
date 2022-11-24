@@ -1,7 +1,6 @@
 # RESTApi
 Learning Rest API file all here. I will update my learning day by day.
 
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create Rest Api](https://github.com/facebook/rest-api).
