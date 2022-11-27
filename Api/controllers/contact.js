@@ -1,5 +1,5 @@
 const Contact = require("../models/Contact");
-const 
+const
 
 const getAllContactController = (req, res, next) => {
   Contact.find()
