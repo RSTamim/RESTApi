@@ -7,7 +7,6 @@ This project was bootstrapped with [Create Rest Api](https://github.com/facebook
 
 
 
-
 ## Learn Schema
 
 Learn Schema from here: (https://mongoosejs.com/docs/guide.html)
